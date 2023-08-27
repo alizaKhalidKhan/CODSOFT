@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[9]:
-
 
 #Internship @CodSoft - Task (3)
 
@@ -206,9 +201,6 @@ while True:
             print("Invalid Input")
             print("Try Again!")
             continue
-
-
-# In[ ]:
 
 
 
