@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
-
 
 #Internship @CodSoft - Task (2)
 """Design a simple calculator with basic arithmetic operations.
@@ -60,8 +55,6 @@ while True:
         print("Quitting the program...")
         break
 
-
-# In[ ]:
 
 
 
